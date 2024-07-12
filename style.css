@@ -1,0 +1,21 @@
+main {
+  width: 90%;
+  max-width: 1080px;
+  padding: 40px;
+  margin: 0 auto;
+  border: 4px red solid;
+  text-align: center;
+  background-color: bisque;
+}
+
+h1 {
+  font-size: 4em;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+p {
+  line-height: 1.5;
+}
